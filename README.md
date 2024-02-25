@@ -1,0 +1,1 @@
+This is a simple calculator that I created for my 431 CPSC class. It uses HTML, CSS, and JS to create a simple calculator. Feel free to copy this and make your own!
